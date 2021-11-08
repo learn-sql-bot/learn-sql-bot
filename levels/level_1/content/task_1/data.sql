@@ -16,7 +16,7 @@ CREATE TABLE IF NOT EXISTS `user_details` (
   `gender` varchar(10) DEFAULT NULL,
   `password` varchar(50) DEFAULT NULL,
   `status` tinyint(10) DEFAULT NULL
-) 
+) ;
 
 --
 -- Dumping data for table `user_details`
