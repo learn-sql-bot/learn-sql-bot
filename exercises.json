@@ -1,0 +1,14 @@
+[
+  {
+    "level": "level_1",
+    "path": "levels/level_1/content/task_1"
+  },
+  {
+    "level": "level_2",
+    "path": "levels/level_1/content/task_2"
+  },
+  {
+    "level": "level_3",
+    "path": "levels/level_1/content/task_3"
+  }
+]
