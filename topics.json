@@ -1,17 +1,14 @@
 {
-  "SELECT": "",
-  "WHERE": "",
-  "ORDER_BY_LIMIT_OFFSET": "",
-  "GROUP_BY": "",
-  "CASE": "",
-  "AGGREGATIONS": "",
-  "ANNOTATIONS": "",
-
-  "JOIN": "",
-
-  "CREATE": "",
-  "ALTER": "",
-
-  "INSERT": "",
-  "UPDATE_DELETE": ""
+   "SELECT":"",
+   "WHERE":"",
+   "ORDER_BY_LIMIT_OFFSET":"",
+   "GROUP_BY":"",
+   "CASE":"",
+   "AGGREGATIONS":"",
+   "ANNOTATIONS":"",
+   "JOIN":"",
+   "CREATE":"",
+   "ALTER":"",
+   "INSERT":"",
+   "UPDATE_DELETE":""
 }
